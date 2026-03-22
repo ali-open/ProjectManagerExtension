@@ -1,0 +1,4738 @@
+[
+  {
+    "name": "acceleratelearning.github.io",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/acceleratelearning.github.io",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "action-build-container-image",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/action/action-build-container-image",
+    "tags": [
+      "AccelerateLearning/action"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "action-get-application-token",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/action/action-get-application-token",
+    "tags": [
+      "AccelerateLearning/action"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "action-get-ecr-image-scan-results",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/action/action-get-ecr-image-scan-results",
+    "tags": [
+      "AccelerateLearning/action"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "action-get-next-ecr-image-tag",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/action/action-get-next-ecr-image-tag",
+    "tags": [
+      "AccelerateLearning/action"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "action-get-next-release-version",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/action/action-get-next-release-version",
+    "tags": [
+      "AccelerateLearning/action"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "action-get-pulumi-iam-role",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/action/action-get-pulumi-iam-role",
+    "tags": [
+      "AccelerateLearning/action"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "action-google-space-notification",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/action/action-google-space-notification",
+    "tags": [
+      "AccelerateLearning/action"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "action-kyverno-scan",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/action/action-kyverno-scan",
+    "tags": [
+      "AccelerateLearning/action"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "action-promote-argo-cd-tag",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/action/action-promote-argo-cd-tag",
+    "tags": [
+      "AccelerateLearning/action"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "action-publish-github-release",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/action/action-publish-github-release",
+    "tags": [
+      "AccelerateLearning/action"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "action-render-markdown",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/action/action-render-markdown",
+    "tags": [
+      "AccelerateLearning/action"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "action-run-nx-generator",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/action/action-run-nx-generator",
+    "tags": [
+      "AccelerateLearning/action"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "action-unit-tests-report",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/action/action-unit-tests-report",
+    "tags": [
+      "AccelerateLearning/action"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "action-update-helm-values-file",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/action/action-update-helm-values-file",
+    "tags": [
+      "AccelerateLearning/action"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "action-update-repo-documentation",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/action/action-update-repo-documentation",
+    "tags": [
+      "AccelerateLearning/action"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "ali-common-cartridge-processor",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/ali-common-cartridge-processor",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "ali-common-cdms",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/ali-common-cdms",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "ali-common-content-processor",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/ali-common-content-processor",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "ali-common-ebook-generator",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/ali-common-ebook-generator",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "ali-common-learnosity",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/ali-common-learnosity",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "ali-common-php-ci-tools",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/ali-common-php-ci-tools",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "ali-common-php-satis",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/ali-common-php-satis",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "ali-orders",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/ali-orders",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "ali-pulumi-npm",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/ali-pulumi-npm",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "ali-pulumi-npm-test",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/ali-pulumi-npm-test",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "ansible-stemscopes-v3-dm-server",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/ansible-stemscopes-v3-dm-server",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "arch-ai-robot-poc",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/arch-ai-robot-poc",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "arch-content-moderation-openai",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/arch-content-moderation-openai",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "arch-content-moderation-poc",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/arch-content-moderation-poc",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "arch-cypress-poc",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/arch-cypress-poc",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "arch-kcl-app-poc",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/arch-kcl-app-poc",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "arch-kong-plugin-poc",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/arch-kong-plugin-poc",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "arch-locust-poc",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/arch-locust-poc",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "arch-lonestar-go-poc",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/arch-lonestar-go-poc",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "arch-nodejs-aggregator-poc",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/arch-nodejs-aggregator-poc",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "arch-pdf-to-flipbook-poc",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/arch-pdf-to-flipbook-poc",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "arch-playwright-poc",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/arch-playwright-poc",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "arch-postgres-benchmark",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/arch-postgres-benchmark",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "arch-redis-search-poc",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/arch-redis-search-poc",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "architecture",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/architecture",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "aws-account-ali-data-dev",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/aws-account/aws-account-ali-data-dev",
+    "tags": [
+      "AccelerateLearning/aws-account"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "aws-account-ali-data-dev-storage",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/aws-account/aws-account-ali-data-dev-storage",
+    "tags": [
+      "AccelerateLearning/aws-account"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "aws-account-ali-data-prod",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/aws-account/aws-account-ali-data-prod",
+    "tags": [
+      "AccelerateLearning/aws-account"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "aws-account-ali-data-qa",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/aws-account/aws-account-ali-data-qa",
+    "tags": [
+      "AccelerateLearning/aws-account"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "aws-account-ali-management",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/aws-account/aws-account-ali-management",
+    "tags": [
+      "AccelerateLearning/aws-account"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "aws-account-ali-shared",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/aws-account/aws-account-ali-shared",
+    "tags": [
+      "AccelerateLearning/aws-account"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "aws-account-cloud-sandbox",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/aws-account/aws-account-cloud-sandbox",
+    "tags": [
+      "AccelerateLearning/aws-account"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "aws-account-defaults",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/aws-account/aws-account-defaults",
+    "tags": [
+      "AccelerateLearning/aws-account"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "aws-account-mathnation-legacy",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/aws-account/aws-account-mathnation-legacy",
+    "tags": [
+      "AccelerateLearning/aws-account"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "aws-account-stemscopes-backup",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/aws-account/aws-account-stemscopes-backup",
+    "tags": [
+      "AccelerateLearning/aws-account"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "aws-account-stemscopes-dev",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/aws-account/aws-account-stemscopes-dev",
+    "tags": [
+      "AccelerateLearning/aws-account"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "aws-account-stemscopes-prod",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/aws-account/aws-account-stemscopes-prod",
+    "tags": [
+      "AccelerateLearning/aws-account"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "aws-account-stemscopes-sandbox",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/aws-account/aws-account-stemscopes-sandbox",
+    "tags": [
+      "AccelerateLearning/aws-account"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "aws-account-stemscopes-v3-prod",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/aws-account/aws-account-stemscopes-v3-prod",
+    "tags": [
+      "AccelerateLearning/aws-account"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "aws-account-stemscopes-v4-dev",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/aws-account/aws-account-stemscopes-v4-dev",
+    "tags": [
+      "AccelerateLearning/aws-account"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "aws-account-stemscopes-v4-prod",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/aws-account/aws-account-stemscopes-v4-prod",
+    "tags": [
+      "AccelerateLearning/aws-account"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "aws-account-stemscopes-v4-uat",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/aws-account/aws-account-stemscopes-v4-uat",
+    "tags": [
+      "AccelerateLearning/aws-account"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "aws-account-studyedge-dev",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/aws-account/aws-account-studyedge-dev",
+    "tags": [
+      "AccelerateLearning/aws-account"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "aws-account-studyedge-prod",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/aws-account/aws-account-studyedge-prod",
+    "tags": [
+      "AccelerateLearning/aws-account"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "aws-athena-query-federation",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/aws-athena-query-federation",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "aws-mathnation-questions-generation",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/aws-mathnation-questions-generation",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "aws-security-reference-architecture-examples",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/aws-security-reference-architecture-examples",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "aws-stemscopes-standards-mapping",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/aws-stemscopes-standards-mapping",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "CivicsNation-Mobile",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/CivicsNation-Mobile",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "cloud-engineering-ansible",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/cloud-engineering/cloud-engineering-ansible",
+    "tags": [
+      "AccelerateLearning/cloud-engineering"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "cloud-engineering-documentation",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/cloud-engineering/cloud-engineering-documentation",
+    "tags": [
+      "AccelerateLearning/cloud-engineering"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "cloud-engineering-recovery",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/cloud-engineering/cloud-engineering-recovery",
+    "tags": [
+      "AccelerateLearning/cloud-engineering"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "cloud-engineering-scripts",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/cloud-engineering/cloud-engineering-scripts",
+    "tags": [
+      "AccelerateLearning/cloud-engineering"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "cms-global",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/cms-global",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "codedeploy-testing",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/codedeploy-testing",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "common-cdms",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/common-cdms",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-ali-platform-copilot-mcp",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-ali-platform-copilot-mcp",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-base-php-road-runner",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-base-php-road-runner",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-ce-job-elasticsearch-account-sync",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-ce-job-elasticsearch-account-sync",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-ce-job-postgresql-account-sync",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-ce-job-postgresql-account-sync",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-ce-service-demoapp-backend",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-ce-service-demoapp-backend",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-ce-service-demoapp-frontend",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-ce-service-demoapp-frontend",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-ce-service-lambda-promtail",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-ce-service-lambda-promtail",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-ce-service-teams-grafana-alerts",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-ce-service-teams-grafana-alerts",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-ce-utility-mysql",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-ce-utility-mysql",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-ce-utility-postgresql",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-ce-utility-postgresql",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-ce-webapp-helpdesk-intake",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-ce-webapp-helpdesk-intake",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-ce-workflow-microsoft-cloud",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-ce-workflow-microsoft-cloud",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-cms-chrome-extension",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-cms-chrome-extension",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-cms-service-cartridge-validator",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-cms-service-cartridge-validator",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-cms-service-frost-export",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-cms-service-frost-export",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-cms-service-learnosityapi",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-cms-service-learnosityapi",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-cms-service-search-spider",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-cms-service-search-spider",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-cms-webapp-frost-export",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-cms-webapp-frost-export",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-cms-workflow-cartridge-validator",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-cms-workflow-cartridge-validator",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-cms-workflow-copy-cc-package",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-cms-workflow-copy-cc-package",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-cms-workflow-learnosity-content-processor",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-cms-workflow-learnosity-content-processor",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-cms-workflow-learnosity-metadata-frost",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-cms-workflow-learnosity-metadata-frost",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-cms-workflow-media-asset-processor",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-cms-workflow-media-asset-processor",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-cms-workflow-unpack-cc-package",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-cms-workflow-unpack-cc-package",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-core-job-common-cartridge-processor",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-core-job-common-cartridge-processor",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-core-job-content-access-logger",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-core-job-content-access-logger",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-core-job-elasticsearch-account-sync",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-core-job-elasticsearch-account-sync",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-core-job-html-image-processor",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-core-job-html-image-processor",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-core-job-kb-parse-scope",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-core-job-kb-parse-scope",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-core-job-kb-parse-scope-old",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-core-job-kb-parse-scope-old",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-core-job-kb-rag",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-core-job-kb-rag",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-core-job-kb-raptor",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-core-job-kb-raptor",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-core-job-opensearch-updater",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-core-job-opensearch-updater",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-core-job-postgresql-account-sync",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-core-job-postgresql-account-sync",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-core-job-teams-notification",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-core-job-teams-notification",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-core-service-event-publisher",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-core-service-event-publisher",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-core-service-graphql-mesh",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-core-service-graphql-mesh",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-core-service-knowledge-base",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-core-service-knowledge-base",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-core-service-kong",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-core-service-kong",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-core-service-php-data-lakehouse-report",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-core-service-php-data-lakehouse-report",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-core-service-pychatbot",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-core-service-pychatbot",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-core-service-rag",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-core-service-rag",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-core-service-standards-mapping",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-core-service-standards-mapping",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-core-service-tag",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-core-service-tag",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-core-service-video",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-core-service-video",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-core-workflow-grade-pass-back",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-core-workflow-grade-pass-back",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-core-workflow-oneroster-csv",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-core-workflow-oneroster-csv",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-core-workflow-oneroster-rest",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-core-workflow-oneroster-rest",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-core-workflow-qti-generation",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-core-workflow-qti-generation",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-core-workflow-rostering-csv-extractor",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-core-workflow-rostering-csv-extractor",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-core-workflow-rostering-edfi",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-core-workflow-rostering-edfi",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-core-workflow-rostering-integration-sync",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-core-workflow-rostering-integration-sync",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-core-workflow-video-processing",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-core-workflow-video-processing",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-data-service-dbt-demo",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-data-service-dbt-demo",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-mathnation-frontend-login",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-mathnation-frontend-login",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-mathnation-service-autotests",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-mathnation-service-autotests",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-mathnation-workflow-json-rostering",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-mathnation-workflow-json-rostering",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-rostering-service-diff",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-rostering-service-diff",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-rostering-service-operations",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-rostering-service-operations",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-sandbox-workflow-go-test",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-sandbox-workflow-go-test",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-sandbox-workflow-php-test",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-sandbox-workflow-php-test",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-stemscopes-frontend-ali-orders",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-stemscopes-frontend-ali-orders",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-stemscopes-job-json-etl",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-stemscopes-job-json-etl",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-stemscopes-job-search-spider",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-stemscopes-job-search-spider",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-stemscopes-service-aqa",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-stemscopes-service-aqa",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-stemscopes-service-assessment",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-stemscopes-service-assessment",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-stemscopes-service-assignments",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-stemscopes-service-assignments",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-stemscopes-service-content-provider",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-stemscopes-service-content-provider",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-stemscopes-service-dashboard-management",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-stemscopes-service-dashboard-management",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-stemscopes-service-demo",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-stemscopes-service-demo",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-stemscopes-service-district-management",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-stemscopes-service-district-management",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-stemscopes-service-iam",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-stemscopes-service-iam",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-stemscopes-service-icons",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-stemscopes-service-icons",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-stemscopes-service-images",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-stemscopes-service-images",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-stemscopes-service-integration-management",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-stemscopes-service-integration-management",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-stemscopes-service-lesson-planner",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-stemscopes-service-lesson-planner",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-stemscopes-service-mn-cc-generator",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-stemscopes-service-mn-cc-generator",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-stemscopes-service-mn-video",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-stemscopes-service-mn-video",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-stemscopes-service-note",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-stemscopes-service-note",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-stemscopes-service-onramp",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-stemscopes-service-onramp",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-stemscopes-service-organization-management",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-stemscopes-service-organization-management",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-stemscopes-service-public",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-stemscopes-service-public",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-stemscopes-service-reader-library",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-stemscopes-service-reader-library",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-stemscopes-service-roster",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-stemscopes-service-roster",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-stemscopes-service-student-chatbot",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-stemscopes-service-student-chatbot",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-stemscopes-service-subscriptions",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-stemscopes-service-subscriptions",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-stemscopes-service-teams",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-stemscopes-service-teams",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-stemscopes-service-template-renderer",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-stemscopes-service-template-renderer",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-stemscopes-service-testing-repo",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-stemscopes-service-testing-repo",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-stemscopes-service-translations",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-stemscopes-service-translations",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-stemscopes-service-wall",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-stemscopes-service-wall",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-stemscopes-workflow-clever-rostering",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-stemscopes-workflow-clever-rostering",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-stemscopes-workflow-content-reparsing",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-stemscopes-workflow-content-reparsing",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-stemscopes-workflow-mn-user-migration",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-stemscopes-workflow-mn-user-migration",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-stemscopes-workflow-mn-video-processing",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-stemscopes-workflow-mn-video-processing",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-stemscopes-workflow-oms-integration",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-stemscopes-workflow-oms-integration",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-studyedge-frontend-login",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/container/container-studyedge-frontend-login",
+    "tags": [
+      "AccelerateLearning/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "custom-repo-test",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/custom-repo-test",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "data-insights-resources",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/data-insights-resources",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "dbt",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/dbt",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "devcontainer-pulumi",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/devcontainer-pulumi",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "gin-common-library",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/gin-common-library",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "github-container-image-cms-repos",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/github/github-container-image-cms-repos",
+    "tags": [
+      "AccelerateLearning/github"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "github-container-image-core-repos",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/github/github-container-image-core-repos",
+    "tags": [
+      "AccelerateLearning/github"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "github-container-image-mathnation-repos",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/github/github-container-image-mathnation-repos",
+    "tags": [
+      "AccelerateLearning/github"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "github-container-image-repos",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/github/github-container-image-repos",
+    "tags": [
+      "AccelerateLearning/github"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "github-container-image-stemscopes-repos",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/github/github-container-image-stemscopes-repos",
+    "tags": [
+      "AccelerateLearning/github"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "github-other-repos",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/github/github-other-repos",
+    "tags": [
+      "AccelerateLearning/github"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "github-packer-repos",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/github/github-packer-repos",
+    "tags": [
+      "AccelerateLearning/github"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "github-platform-cms-repos",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/github/github-platform-cms-repos",
+    "tags": [
+      "AccelerateLearning/github"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "github-platform-core-repos",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/github/github-platform-core-repos",
+    "tags": [
+      "AccelerateLearning/github"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "github-platform-repos",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/github/github-platform-repos",
+    "tags": [
+      "AccelerateLearning/github"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "github-platform-stemscopes-repos",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/github/github-platform-stemscopes-repos",
+    "tags": [
+      "AccelerateLearning/github"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "github-pulumi-repos",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/github/github-pulumi-repos",
+    "tags": [
+      "AccelerateLearning/github"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "github-test-repos",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/github/github-test-repos",
+    "tags": [
+      "AccelerateLearning/github"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "github-test-testy-face",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/github/github-test-testy-face",
+    "tags": [
+      "AccelerateLearning/github"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "github-update-dependabot-config",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/github/github-update-dependabot-config",
+    "tags": [
+      "AccelerateLearning/github"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "global-login-ui",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/global-login-ui",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "grafana-tempo-local",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/grafana-tempo-local",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "grpc",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/grpc",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "learnosity-integration-lti",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/learnosity-integration-lti",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "lib-copilot-instructions",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/lib-copilot-instructions",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "lib-go-logger",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/lib-go-logger",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "maintenance",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/maintenance",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "mathnation-mobile",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/mathnation-mobile",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "mathnation-mobile-certificates",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/mathnation-mobile-certificates",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "National-Console",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/National-Console",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "npm-ali-fastify",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/npm-ali-fastify",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "npm-ali-nitro-plugin",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/npm-ali-nitro-plugin",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "npm-ali-project-info",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/npm-ali-project-info",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "npm-ali-pulumi",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/npm-ali-pulumi",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "npm-nx-ali-pulumi",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/npm-nx-ali-pulumi",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "npm-nx-ali-repository-maintenance",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/npm-nx-ali-repository-maintenance",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "openai-report-poc",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/openai-report-poc",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "packer-stemscopes-v3-dm-server",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/packer/packer-stemscopes-v3-dm-server",
+    "tags": [
+      "AccelerateLearning/packer"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "packer-stemscopes-v3-global-login",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/packer/packer-stemscopes-v3-global-login",
+    "tags": [
+      "AccelerateLearning/packer"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "phi-3.14-poc",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/phi-3.14-poc",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-lib-stemscopes-v4-authorization",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/php-lib/php-lib-stemscopes-v4-authorization",
+    "tags": [
+      "AccelerateLearning/php-lib"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-lib-stemscopes-v4-authorization-tmp",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/php-lib/php-lib-stemscopes-v4-authorization-tmp",
+    "tags": [
+      "AccelerateLearning/php-lib"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-lib-stemscopes-v4-aws-wrappers",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/php-lib/php-lib-stemscopes-v4-aws-wrappers",
+    "tags": [
+      "AccelerateLearning/php-lib"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-lib-stemscopes-v4-canvas",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/php-lib/php-lib-stemscopes-v4-canvas",
+    "tags": [
+      "AccelerateLearning/php-lib"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-lib-stemscopes-v4-clever",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/php-lib/php-lib-stemscopes-v4-clever",
+    "tags": [
+      "AccelerateLearning/php-lib"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-lib-stemscopes-v4-command-bus",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/php-lib/php-lib-stemscopes-v4-command-bus",
+    "tags": [
+      "AccelerateLearning/php-lib"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-lib-stemscopes-v4-dynamodb",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/php-lib/php-lib-stemscopes-v4-dynamodb",
+    "tags": [
+      "AccelerateLearning/php-lib"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-lib-stemscopes-v4-dynamodb-api",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/php-lib/php-lib-stemscopes-v4-dynamodb-api",
+    "tags": [
+      "AccelerateLearning/php-lib"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-lib-stemscopes-v4-edfi",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/php-lib/php-lib-stemscopes-v4-edfi",
+    "tags": [
+      "AccelerateLearning/php-lib"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-lib-stemscopes-v4-elasticsearch",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/php-lib/php-lib-stemscopes-v4-elasticsearch",
+    "tags": [
+      "AccelerateLearning/php-lib"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-lib-stemscopes-v4-eoy",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/php-lib/php-lib-stemscopes-v4-eoy",
+    "tags": [
+      "AccelerateLearning/php-lib"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-lib-stemscopes-v4-feature-flags",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/php-lib/php-lib-stemscopes-v4-feature-flags",
+    "tags": [
+      "AccelerateLearning/php-lib"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-lib-stemscopes-v4-graphqlite-bundle",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/php-lib/php-lib-stemscopes-v4-graphqlite-bundle",
+    "tags": [
+      "AccelerateLearning/php-lib"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-lib-stemscopes-v4-grpc-bundle",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/php-lib/php-lib-stemscopes-v4-grpc-bundle",
+    "tags": [
+      "AccelerateLearning/php-lib"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-lib-stemscopes-v4-learnosity-qti",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/php-lib/php-lib-stemscopes-v4-learnosity-qti",
+    "tags": [
+      "AccelerateLearning/php-lib"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-lib-stemscopes-v4-migrations",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/php-lib/php-lib-stemscopes-v4-migrations",
+    "tags": [
+      "AccelerateLearning/php-lib"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-lib-stemscopes-v4-oneroster-rest",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/php-lib/php-lib-stemscopes-v4-oneroster-rest",
+    "tags": [
+      "AccelerateLearning/php-lib"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-lib-stemscopes-v4-oneroster-rostering-bundle",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/php-lib/php-lib-stemscopes-v4-oneroster-rostering-bundle",
+    "tags": [
+      "AccelerateLearning/php-lib"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-lib-stemscopes-v4-opensearch",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/php-lib/php-lib-stemscopes-v4-opensearch",
+    "tags": [
+      "AccelerateLearning/php-lib"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-lib-stemscopes-v4-rostering-bundle",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/php-lib/php-lib-stemscopes-v4-rostering-bundle",
+    "tags": [
+      "AccelerateLearning/php-lib"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-lib-stemscopes-v4-soft-delete-doctrine",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/php-lib/php-lib-stemscopes-v4-soft-delete-doctrine",
+    "tags": [
+      "AccelerateLearning/php-lib"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-lib-stemscopes-v4-uninstall",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/php-lib/php-lib-stemscopes-v4-uninstall",
+    "tags": [
+      "AccelerateLearning/php-lib"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-ali-platform-copilot-mcp",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-ali-platform-copilot-mcp",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-ce-service-lambda-promtail",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-ce-service-lambda-promtail",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-ce-service-teams-grafana-alerts",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-ce-service-teams-grafana-alerts",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-ce-webapp-helpdesk-intake",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-ce-webapp-helpdesk-intake",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-ce-workflow-microsoft-cloud",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-ce-workflow-microsoft-cloud",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-cms-service-cdms",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-cms-service-cdms",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-cms-service-learnosity-api",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-cms-service-learnosity-api",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-cms-workflow-frost-export",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-cms-workflow-frost-export",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-cms-workflow-frost-publish",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-cms-workflow-frost-publish",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-cms-workflow-learnosity-content-processor",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-cms-workflow-learnosity-content-processor",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-cms-workflow-media-asset-processor",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-cms-workflow-media-asset-processor",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-core-elasticsearch-cluster",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-core-elasticsearch-cluster",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-core-frontend-platform-admin",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-core-frontend-platform-admin",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-core-job-content-access-logger",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-core-job-content-access-logger",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-core-job-opensearch-updater",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-core-job-opensearch-updater",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-core-postgresql",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-core-postgresql",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-core-salesforce-integration",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-core-salesforce-integration",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-core-service-edfi-sandbox",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-core-service-edfi-sandbox",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-core-service-event-publisher",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-core-service-event-publisher",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-core-service-graphql-mesh",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-core-service-graphql-mesh",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-core-service-knowledge-base",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-core-service-knowledge-base",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-core-service-kong",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-core-service-kong",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-core-service-maildev",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-core-service-maildev",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-core-service-mailer",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-core-service-mailer",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-core-service-php-data-lakehouse-report",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-core-service-php-data-lakehouse-report",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-core-service-pychatbot",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-core-service-pychatbot",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-core-service-rag",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-core-service-rag",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-core-service-standards-mapping",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-core-service-standards-mapping",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-core-service-tag",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-core-service-tag",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-core-service-video",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-core-service-video",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-core-testy-mctest",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-core-testy-mctest",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-core-workflow-assignments-manager",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-core-workflow-assignments-manager",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-core-workflow-grade-pass-back",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-core-workflow-grade-pass-back",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-core-workflow-image-upload",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-core-workflow-image-upload",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-core-workflow-operations",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-core-workflow-operations",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-core-workflow-preview-account-create",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-core-workflow-preview-account-create",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-core-workflow-preview-account-import",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-core-workflow-preview-account-import",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-core-workflow-qti-generation",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-core-workflow-qti-generation",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-core-workflow-rostering-clever",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-core-workflow-rostering-clever",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-core-workflow-rostering-csv-extractor",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-core-workflow-rostering-csv-extractor",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-core-workflow-rostering-edfi",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-core-workflow-rostering-edfi",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-core-workflow-rostering-etl",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-core-workflow-rostering-etl",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-core-workflow-rostering-integration-sync",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-core-workflow-rostering-integration-sync",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-core-workflow-rostering-oneroster",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-core-workflow-rostering-oneroster",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-core-workflow-rostering-oneroster-rest",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-core-workflow-rostering-oneroster-rest",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-core-workflow-video-processing",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-core-workflow-video-processing",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-data-learnosity-firehose",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-data-learnosity-firehose",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-demoapp",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-demoapp",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-k8s-argocd-root",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-k8s-argocd-root",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-k8s-monitoring",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-k8s-monitoring",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-kubernetes",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-kubernetes",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-rostering-service-diff",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-rostering-service-diff",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-rostering-service-operations",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-rostering-service-operations",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-stemscopes",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-aws-account",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-stemscopes-aws-account",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-backup",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-stemscopes-backup",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-backup-initiator",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-stemscopes-backup-initiator",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-frontend-admin",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-stemscopes-frontend-admin",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-frontend-content-player",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-stemscopes-frontend-content-player",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-frontend-login",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-stemscopes-frontend-login",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-frontend-mathnation-login",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-stemscopes-frontend-mathnation-login",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-frontend-mathnation-suit",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-stemscopes-frontend-mathnation-suit",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-frontend-storybook",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-stemscopes-frontend-storybook",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-frontend-suit",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-stemscopes-frontend-suit",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-restore",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-stemscopes-restore",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-service-assessment",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-stemscopes-service-assessment",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-service-assignments",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-stemscopes-service-assignments",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-service-content-provider",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-stemscopes-service-content-provider",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-service-dashboard-management",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-stemscopes-service-dashboard-management",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-service-demo",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-stemscopes-service-demo",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-service-iam",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-stemscopes-service-iam",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-service-icons",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-stemscopes-service-icons",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-service-images",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-stemscopes-service-images",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-service-integration-management",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-stemscopes-service-integration-management",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-service-learnosity-api",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-stemscopes-service-learnosity-api",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-service-lesson-planner",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-stemscopes-service-lesson-planner",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-service-login",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-stemscopes-service-login",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-service-note",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-stemscopes-service-note",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-service-onramp",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-stemscopes-service-onramp",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-service-organization-management",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-stemscopes-service-organization-management",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-service-public",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-stemscopes-service-public",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-service-reader-library",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-stemscopes-service-reader-library",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-service-roster",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-stemscopes-service-roster",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-service-session-storage",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-stemscopes-service-session-storage",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-service-student-chatbot",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-stemscopes-service-student-chatbot",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-service-subscriptions",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-stemscopes-service-subscriptions",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-service-teams",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-stemscopes-service-teams",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-service-template-renderer",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-stemscopes-service-template-renderer",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-service-translations",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-stemscopes-service-translations",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-service-user-management",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-stemscopes-service-user-management",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-service-wall",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-stemscopes-service-wall",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-workflow-assignments-manager",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-stemscopes-workflow-assignments-manager",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-workflow-oms-integration",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-stemscopes-workflow-oms-integration",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-test-organization-branch-protections",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/platform/platform-test-organization-branch-protections",
+    "tags": [
+      "AccelerateLearning/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "pulumi-development-support",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/pulumi/pulumi-development-support",
+    "tags": [
+      "AccelerateLearning/pulumi"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "pulumi-lake-formation",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/pulumi/pulumi-lake-formation",
+    "tags": [
+      "AccelerateLearning/pulumi"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "pulumi-lake-formation-storage",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/pulumi/pulumi-lake-formation-storage",
+    "tags": [
+      "AccelerateLearning/pulumi"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "pulumi-monorepo",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/pulumi/pulumi-monorepo",
+    "tags": [
+      "AccelerateLearning/pulumi"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "pulumi-poc",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/pulumi/pulumi-poc",
+    "tags": [
+      "AccelerateLearning/pulumi"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "pulumi-poc-ben",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/pulumi/pulumi-poc-ben",
+    "tags": [
+      "AccelerateLearning/pulumi"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "pulumi-poc-donna",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/pulumi/pulumi-poc-donna",
+    "tags": [
+      "AccelerateLearning/pulumi"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "pulumi-poc-kyle",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/pulumi/pulumi-poc-kyle",
+    "tags": [
+      "AccelerateLearning/pulumi"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "pulumi-product-reconciliation",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/pulumi/pulumi-product-reconciliation",
+    "tags": [
+      "AccelerateLearning/pulumi"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "pulumi-sandbox",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/pulumi/pulumi-sandbox",
+    "tags": [
+      "AccelerateLearning/pulumi"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "pulumi-stemscopes-v3-app",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/pulumi/pulumi-stemscopes-v3-app",
+    "tags": [
+      "AccelerateLearning/pulumi"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "pulumi-stemscopes-v3-cdn",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/pulumi/pulumi-stemscopes-v3-cdn",
+    "tags": [
+      "AccelerateLearning/pulumi"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "pulumi-stemscopes-v3-global-login",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/pulumi/pulumi-stemscopes-v3-global-login",
+    "tags": [
+      "AccelerateLearning/pulumi"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "pulumi-stemscopes-v3-oms",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/pulumi/pulumi-stemscopes-v3-oms",
+    "tags": [
+      "AccelerateLearning/pulumi"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "pulumi-stemscopes-v3-shared",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/pulumi/pulumi-stemscopes-v3-shared",
+    "tags": [
+      "AccelerateLearning/pulumi"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "pulumi-stemscopes-v4-mysql",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/pulumi/pulumi-stemscopes-v4-mysql",
+    "tags": [
+      "AccelerateLearning/pulumi"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "pulumi-stemscopes-v4-shared",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/pulumi/pulumi-stemscopes-v4-shared",
+    "tags": [
+      "AccelerateLearning/pulumi"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "pulumi-vpc",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/pulumi/pulumi-vpc",
+    "tags": [
+      "AccelerateLearning/pulumi"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "purge-scope-content",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/purge-scope-content",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "repository-template-container-image",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/repository-template/repository-template-container-image",
+    "tags": [
+      "AccelerateLearning/repository-template"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "repository-template-github-container-image-repos",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/repository-template/repository-template-github-container-image-repos",
+    "tags": [
+      "AccelerateLearning/repository-template"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "repository-template-github-platform-repos",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/repository-template/repository-template-github-platform-repos",
+    "tags": [
+      "AccelerateLearning/repository-template"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "repository-template-go-microservice",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/repository-template/repository-template-go-microservice",
+    "tags": [
+      "AccelerateLearning/repository-template"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "repository-template-php-job",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/repository-template/repository-template-php-job",
+    "tags": [
+      "AccelerateLearning/repository-template"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "repository-template-php-microservice",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/repository-template/repository-template-php-microservice",
+    "tags": [
+      "AccelerateLearning/repository-template"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "repository-template-php-symfony-bundle",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/repository-template/repository-template-php-symfony-bundle",
+    "tags": [
+      "AccelerateLearning/repository-template"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "repository-template-platform",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/repository-template/repository-template-platform",
+    "tags": [
+      "AccelerateLearning/repository-template"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "repository-template-pulumi",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/repository-template/repository-template-pulumi",
+    "tags": [
+      "AccelerateLearning/repository-template"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "repository-template-python-job",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/repository-template/repository-template-python-job",
+    "tags": [
+      "AccelerateLearning/repository-template"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "repository-template-ror-microservice",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/repository-template/repository-template-ror-microservice",
+    "tags": [
+      "AccelerateLearning/repository-template"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "repository-template-ruby-microservice",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/repository-template/repository-template-ruby-microservice",
+    "tags": [
+      "AccelerateLearning/repository-template"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "roadrunner-grpc",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/roadrunner-grpc",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "roadrunner-server-grpc",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/roadrunner-server-grpc",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "sandbox-php-test",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/sandbox-php-test",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "sandbox-test",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/sandbox-test",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "sandbox-test-cont-repo",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/sandbox-test-cont-repo",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "sandbox-test-cont-repo-2",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/sandbox-test-cont-repo-2",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "sandbox-test-cont-repo-to-move",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/sandbox-test-cont-repo-to-move",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "sandbox-workflow",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/sandbox-workflow",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "SE-PureLogics",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/SE-PureLogics",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "sefallback",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/sefallback",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "stemscopes-content-access-control-jwt",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/stemscopes-content-access-control-jwt",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "stemscopes-review-site",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/stemscopes-review-site",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "stemscopes-v4-backend",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/stemscopes-v4-backend",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "stemscopes-v4-content-provider",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/stemscopes-v4-content-provider",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "stemscopes-v4-frontend",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/stemscopes-v4-frontend",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "stemscopes-v4-lib-grpc-proto",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/stemscopes-v4-lib-grpc-proto",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "stemscopes-v4-lib-session-handler-bundle",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/stemscopes-v4-lib-session-handler-bundle",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "stemscopes-v4-login",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/stemscopes-v4-login",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "stemscopes-v4-mailer",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/stemscopes-v4-mailer",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "stemscopes-v4-session-storage",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/stemscopes-v4-session-storage",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "stemscopes-v4-user-management",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/stemscopes-v4-user-management",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "studyexpert",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/studyexpert",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "svc-api-ref",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/svc-api-ref",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "tmp-stempschopes-opensearch-users-lambda",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/tmp-stempschopes-opensearch-users-lambda",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "tms",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/tms",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "tms_android",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/tms_android",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "tms-grunt",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/tms-grunt",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "tms-slate-api",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/tms-slate-api",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "tms-vagrant",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/tms-vagrant",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "Tutor-Matching-Service",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/Tutor-Matching-Service",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "UF-SAE",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/UF-SAE",
+    "tags": [
+      "AccelerateLearning"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "workflow-argocd-pull-request",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/workflow/workflow-argocd-pull-request",
+    "tags": [
+      "AccelerateLearning/workflow"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "workflow-base-repo-version-upgrades",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/workflow/workflow-base-repo-version-upgrades",
+    "tags": [
+      "AccelerateLearning/workflow"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "workflow-container-image-publish",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/workflow/workflow-container-image-publish",
+    "tags": [
+      "AccelerateLearning/workflow"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "workflow-container-image-pull-request",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/workflow/workflow-container-image-pull-request",
+    "tags": [
+      "AccelerateLearning/workflow"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "workflow-dependabot-merge-prs",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/workflow/workflow-dependabot-merge-prs",
+    "tags": [
+      "AccelerateLearning/workflow"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "workflow-kyverno-scan",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/workflow/workflow-kyverno-scan",
+    "tags": [
+      "AccelerateLearning/workflow"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "workflow-merge-prs",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/workflow/workflow-merge-prs",
+    "tags": [
+      "AccelerateLearning/workflow"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "workflow-platform-pull-request",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/workflow/workflow-platform-pull-request",
+    "tags": [
+      "AccelerateLearning/workflow"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "workflow-platform-pulumi-up",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/workflow/workflow-platform-pulumi-up",
+    "tags": [
+      "AccelerateLearning/workflow"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "workflow-platform-up",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/workflow/workflow-platform-up",
+    "tags": [
+      "AccelerateLearning/workflow"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "workflow-pull-request-checks",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/workflow/workflow-pull-request-checks",
+    "tags": [
+      "AccelerateLearning/workflow"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "workflow-pulumi-pull-request",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/workflow/workflow-pulumi-pull-request",
+    "tags": [
+      "AccelerateLearning/workflow"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "workflow-pulumi-pull-request-checks",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/workflow/workflow-pulumi-pull-request-checks",
+    "tags": [
+      "AccelerateLearning/workflow"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "workflow-pulumi-up",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/workflow/workflow-pulumi-up",
+    "tags": [
+      "AccelerateLearning/workflow"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "workflow-repository-maintenance",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/workflow/workflow-repository-maintenance",
+    "tags": [
+      "AccelerateLearning/workflow"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "workflow-shared-workflows",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/AccelerateLearning/workflow/workflow-shared-workflows",
+    "tags": [
+      "AccelerateLearning/workflow"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-adoptions-webapp-retention",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-back-office/container/container-adoptions-webapp-retention",
+    "tags": [
+      "ali-back-office/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-ali-back-office-ali-systems-frontend-service",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-back-office/container/container-ali-back-office-ali-systems-frontend-service",
+    "tags": [
+      "ali-back-office/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-ali-back-office-ali-systems-service",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-back-office/container/container-ali-back-office-ali-systems-service",
+    "tags": [
+      "ali-back-office/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-ali-back-office-contractors-service",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-back-office/container/container-ali-back-office-contractors-service",
+    "tags": [
+      "ali-back-office/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-ali-back-office-nise-service",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-back-office/container/container-ali-back-office-nise-service",
+    "tags": [
+      "ali-back-office/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-ali-back-office-webstore-service",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-back-office/container/container-ali-back-office-webstore-service",
+    "tags": [
+      "ali-back-office/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-back-office-ci-tools-php-base",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-back-office/container/container-back-office-ci-tools-php-base",
+    "tags": [
+      "ali-back-office/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-back-office-service-global-login",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-back-office/container/container-back-office-service-global-login",
+    "tags": [
+      "ali-back-office/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-back-office-service-glr",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-back-office/container/container-back-office-service-glr",
+    "tags": [
+      "ali-back-office/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-oms-service-management",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-back-office/container/container-oms-service-management",
+    "tags": [
+      "ali-back-office/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "github-container-image-ali-back-office-repos",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-back-office/github/github-container-image-ali-back-office-repos",
+    "tags": [
+      "ali-back-office/github"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "github-kab-poc-repos",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-back-office/github/github-kab-poc-repos",
+    "tags": [
+      "ali-back-office/github"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "github-platform-ali-back-office-repos",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-back-office/github/github-platform-ali-back-office-repos",
+    "tags": [
+      "ali-back-office/github"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-adoptions-webapp-retention",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-back-office/platform/platform-adoptions-webapp-retention",
+    "tags": [
+      "ali-back-office/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-ali-back-office-ali-systems",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-back-office/platform/platform-ali-back-office-ali-systems",
+    "tags": [
+      "ali-back-office/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-ali-back-office-ali-systems-frontend",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-back-office/platform/platform-ali-back-office-ali-systems-frontend",
+    "tags": [
+      "ali-back-office/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-ali-back-office-contractors",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-back-office/platform/platform-ali-back-office-contractors",
+    "tags": [
+      "ali-back-office/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-ali-back-office-nise",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-back-office/platform/platform-ali-back-office-nise",
+    "tags": [
+      "ali-back-office/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-ali-back-office-oms",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-back-office/platform/platform-ali-back-office-oms",
+    "tags": [
+      "ali-back-office/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-ali-back-office-webstore",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-back-office/platform/platform-ali-back-office-webstore",
+    "tags": [
+      "ali-back-office/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-back-office-ali-systems",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-back-office/platform/platform-back-office-ali-systems",
+    "tags": [
+      "ali-back-office/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-back-office-global-login",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-back-office/platform/platform-back-office-global-login",
+    "tags": [
+      "ali-back-office/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-back-office-glr",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-back-office/platform/platform-back-office-glr",
+    "tags": [
+      "ali-back-office/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-back-office-glr-queue",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-back-office/platform/platform-back-office-glr-queue",
+    "tags": [
+      "ali-back-office/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-back-office-mysql",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-back-office/platform/platform-back-office-mysql",
+    "tags": [
+      "ali-back-office/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-oms-service-management",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-back-office/platform/platform-oms-service-management",
+    "tags": [
+      "ali-back-office/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "pulumi-ali-back-office-account",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-back-office/pulumi/pulumi-ali-back-office-account",
+    "tags": [
+      "ali-back-office/pulumi"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "pulumi-product-reconciliation-lambda",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-back-office/pulumi/pulumi-product-reconciliation-lambda",
+    "tags": [
+      "ali-back-office/pulumi"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "repository-template-container-image",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-back-office/repository-template/repository-template-container-image",
+    "tags": [
+      "ali-back-office/repository-template"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "repository-template-platform",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-back-office/repository-template/repository-template-platform",
+    "tags": [
+      "ali-back-office/repository-template"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-ali-data-gov-db-docs-docusaurus",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-data-gov/container/container-ali-data-gov-db-docs-docusaurus",
+    "tags": [
+      "ali-data-gov/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-ali-data-gov-db-docs",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-data-gov/platform/platform-ali-data-gov-db-docs",
+    "tags": [
+      "ali-data-gov/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "ali-primary-wordpress",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-marketing/ali-primary-wordpress",
+    "tags": [
+      "ali-marketing"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-ali-marketing-service-test",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-marketing/container/container-ali-marketing-service-test",
+    "tags": [
+      "ali-marketing/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "github-container-image-ali-marketing-repos",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-marketing/github/github-container-image-ali-marketing-repos",
+    "tags": [
+      "ali-marketing/github"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "github-platform-ali-marketing-repos",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-marketing/github/github-platform-ali-marketing-repos",
+    "tags": [
+      "ali-marketing/github"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "repository-template-container-image",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-marketing/repository-template/repository-template-container-image",
+    "tags": [
+      "ali-marketing/repository-template"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "repository-template-platform",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-marketing/repository-template/repository-template-platform",
+    "tags": [
+      "ali-marketing/repository-template"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "auth-service-poc",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-one-platform/auth-service-poc",
+    "tags": [
+      "ali-one-platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "cognity-test-no-amplify-fe",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-one-platform/cognity-test-no-amplify-fe",
+    "tags": [
+      "ali-one-platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-one-platform-content-services-api",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-one-platform/container/container-one-platform-content-services-api",
+    "tags": [
+      "ali-one-platform/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-one-platform-identity-services-api",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-one-platform/container/container-one-platform-identity-services-api",
+    "tags": [
+      "ali-one-platform/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-one-platform-identity-services-login",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-one-platform/container/container-one-platform-identity-services-login",
+    "tags": [
+      "ali-one-platform/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-one-platform-platform-admin-api",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-one-platform/container/container-one-platform-platform-admin-api",
+    "tags": [
+      "ali-one-platform/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-one-platform-platform-admin-fe",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-one-platform/container/container-one-platform-platform-admin-fe",
+    "tags": [
+      "ali-one-platform/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-one-platform-review-sample",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-one-platform/container/container-one-platform-review-sample",
+    "tags": [
+      "ali-one-platform/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-one-platform-rostering-api",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-one-platform/container/container-one-platform-rostering-api",
+    "tags": [
+      "ali-one-platform/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "demo-app-1",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-one-platform/demo-app-1",
+    "tags": [
+      "ali-one-platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "demo-product-app-1",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-one-platform/demo-product-app-1",
+    "tags": [
+      "ali-one-platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-one-platform-content-services",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-one-platform/platform/platform-one-platform-content-services",
+    "tags": [
+      "ali-one-platform/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-one-platform-identity-services",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-one-platform/platform/platform-one-platform-identity-services",
+    "tags": [
+      "ali-one-platform/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-one-platform-platform-admin",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-one-platform/platform/platform-one-platform-platform-admin",
+    "tags": [
+      "ali-one-platform/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-one-platform-review-sample",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-one-platform/platform/platform-one-platform-review-sample",
+    "tags": [
+      "ali-one-platform/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-one-platform-rostering",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-one-platform/platform/platform-one-platform-rostering",
+    "tags": [
+      "ali-one-platform/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "roster-service-poc",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-one-platform/roster-service-poc",
+    "tags": [
+      "ali-one-platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "automation-onramp-supplemental",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-onramp/automation-onramp-supplemental",
+    "tags": [
+      "ali-onramp"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-onramp-demo-app-frontend",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-onramp/container/container-onramp-demo-app-frontend",
+    "tags": [
+      "ali-onramp/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-onramp-generator-test-frontend",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-onramp/container/container-onramp-generator-test-frontend",
+    "tags": [
+      "ali-onramp/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-onramp-osa-api",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-onramp/container/container-onramp-osa-api",
+    "tags": [
+      "ali-onramp/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-onramp-osa-content-mcp",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-onramp/container/container-onramp-osa-content-mcp",
+    "tags": [
+      "ali-onramp/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-onramp-osa-simulator-api",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-onramp/container/container-onramp-osa-simulator-api",
+    "tags": [
+      "ali-onramp/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-onramp-osa-simulator-fe",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-onramp/container/container-onramp-osa-simulator-fe",
+    "tags": [
+      "ali-onramp/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-onramp-osa-student-mcp",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-onramp/container/container-onramp-osa-student-mcp",
+    "tags": [
+      "ali-onramp/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-onramp-supplemental-api",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-onramp/container/container-onramp-supplemental-api",
+    "tags": [
+      "ali-onramp/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-onramp-supplemental-fe",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-onramp/container/container-onramp-supplemental-fe",
+    "tags": [
+      "ali-onramp/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-onramp-demo-app",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-onramp/platform/platform-onramp-demo-app",
+    "tags": [
+      "ali-onramp/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-onramp-generator-test",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-onramp/platform/platform-onramp-generator-test",
+    "tags": [
+      "ali-onramp/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-onramp-osa",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-onramp/platform/platform-onramp-osa",
+    "tags": [
+      "ali-onramp/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-onramp-osa-simulator",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-onramp/platform/platform-onramp-osa-simulator",
+    "tags": [
+      "ali-onramp/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-onramp-supplemental",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-onramp/platform/platform-onramp-supplemental",
+    "tags": [
+      "ali-onramp/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "review-RobBob63",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-open/review-RobBob63",
+    "tags": [
+      "ali-open"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "review-sample",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-open/review-sample",
+    "tags": [
+      "ali-open"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "review-template",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-open/review-template",
+    "tags": [
+      "ali-open"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "review-template-derekreiger",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-open/review-template-derekreiger",
+    "tags": [
+      "ali-open"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "review-template-RobBob63",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-open/review-template-RobBob63",
+    "tags": [
+      "ali-open"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "ali-platform-github-container-image-repos",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-platform/ali-platform-github-container-image-repos",
+    "tags": [
+      "ali-platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "ali-platform-github-platform-repos",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-platform/ali-platform-github-platform-repos",
+    "tags": [
+      "ali-platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "boxstarter",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-platform/boxstarter",
+    "tags": [
+      "ali-platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-ali-platform-app-org-test-backend",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-platform/container/container-ali-platform-app-org-test-backend",
+    "tags": [
+      "ali-platform/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-ali-platform-app-org-test-frontend",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-platform/container/container-ali-platform-app-org-test-frontend",
+    "tags": [
+      "ali-platform/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-ali-platform-ce-utility",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-platform/container/container-ali-platform-ce-utility",
+    "tags": [
+      "ali-platform/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-ali-platform-cloud-engineering-docs",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-platform/container/container-ali-platform-cloud-engineering-docs",
+    "tags": [
+      "ali-platform/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-ali-platform-testy-mc-test-backend",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-platform/container/container-ali-platform-testy-mc-test-backend",
+    "tags": [
+      "ali-platform/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-ali-platform-testy-mc-test-frontend",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-platform/container/container-ali-platform-testy-mc-test-frontend",
+    "tags": [
+      "ali-platform/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-ali-platform-testy-mc-test-python",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-platform/container/container-ali-platform-testy-mc-test-python",
+    "tags": [
+      "ali-platform/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-ce-python-base",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-platform/container/container-ce-python-base",
+    "tags": [
+      "ali-platform/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-ce-workflow-dynamo-db-anonymize",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-platform/container/container-ce-workflow-dynamo-db-anonymize",
+    "tags": [
+      "ali-platform/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-ce-workflow-entra-offboard",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-platform/container/container-ce-workflow-entra-offboard",
+    "tags": [
+      "ali-platform/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-ce-workflow-ms-graph-webhook-validation",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-platform/container/container-ce-workflow-ms-graph-webhook-validation",
+    "tags": [
+      "ali-platform/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-ce-workflow-postgres-anonymize",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-platform/container/container-ce-workflow-postgres-anonymize",
+    "tags": [
+      "ali-platform/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "dotfiles",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-platform/dotfiles",
+    "tags": [
+      "ali-platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "github-repos",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-platform/github/github-repos",
+    "tags": [
+      "ali-platform/github"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "intune-autopilot",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-platform/intune-autopilot",
+    "tags": [
+      "ali-platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "intune-nerd-fonts",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-platform/intune-nerd-fonts",
+    "tags": [
+      "ali-platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "it-scripts",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-platform/it-scripts",
+    "tags": [
+      "ali-platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-ali-platform-app-org-test",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-platform/platform/platform-ali-platform-app-org-test",
+    "tags": [
+      "ali-platform/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-ali-platform-cloud-engineering",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-platform/platform/platform-ali-platform-cloud-engineering",
+    "tags": [
+      "ali-platform/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-ali-platform-entra-test",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-platform/platform/platform-ali-platform-entra-test",
+    "tags": [
+      "ali-platform/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-ali-platform-testy-mc-test",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-platform/platform/platform-ali-platform-testy-mc-test",
+    "tags": [
+      "ali-platform/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-ali-platform-transit-gateway",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-platform/platform/platform-ali-platform-transit-gateway",
+    "tags": [
+      "ali-platform/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-ce-crossplane-compositions",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-platform/platform/platform-ce-crossplane-compositions",
+    "tags": [
+      "ali-platform/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-ce-entra-offboard",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-platform/platform/platform-ce-entra-offboard",
+    "tags": [
+      "ali-platform/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-cloud-engineering",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-platform/platform/platform-cloud-engineering",
+    "tags": [
+      "ali-platform/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-dns",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-platform/platform/platform-dns",
+    "tags": [
+      "ali-platform/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-dynamodb-anonymize",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-platform/platform/platform-dynamodb-anonymize",
+    "tags": [
+      "ali-platform/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-gcp",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-platform/platform/platform-gcp",
+    "tags": [
+      "ali-platform/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-k8s-apps",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-platform/platform/platform-k8s-apps",
+    "tags": [
+      "ali-platform/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-k8s-cluster",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-platform/platform/platform-k8s-cluster",
+    "tags": [
+      "ali-platform/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-k8s-services",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-platform/platform/platform-k8s-services",
+    "tags": [
+      "ali-platform/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-postgres-anonymize",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-platform/platform/platform-postgres-anonymize",
+    "tags": [
+      "ali-platform/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "repository-template-container-image",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-platform/repository-template/repository-template-container-image",
+    "tags": [
+      "ali-platform/repository-template"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "repository-template-platform",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-platform/repository-template/repository-template-platform",
+    "tags": [
+      "ali-platform/repository-template"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "select-aws-profile",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/ali-platform/select-aws-profile",
+    "tags": [
+      "ali-platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "ali",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/ali",
+    "tags": [
+      "stemscopes-v3"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "ali_district_master",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/ali_district_master",
+    "tags": [
+      "stemscopes-v3"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "ali_global_login",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/ali_global_login",
+    "tags": [
+      "stemscopes-v3"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "ali_orders",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/ali_orders",
+    "tags": [
+      "stemscopes-v3"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "ali_queue",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/ali_queue",
+    "tags": [
+      "stemscopes-v3"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "ali_systems",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/ali_systems",
+    "tags": [
+      "stemscopes-v3"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-stemscopes-v3-service-autosave",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/container/container-stemscopes-v3-service-autosave",
+    "tags": [
+      "stemscopes-v3/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-stemscopes-v3-service-backend",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/container/container-stemscopes-v3-service-backend",
+    "tags": [
+      "stemscopes-v3/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-stemscopes-v3-service-frontend",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/container/container-stemscopes-v3-service-frontend",
+    "tags": [
+      "stemscopes-v3/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-stemscopes-v3-service-login",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/container/container-stemscopes-v3-service-login",
+    "tags": [
+      "stemscopes-v3/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "dm-integration",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/dm-integration",
+    "tags": [
+      "stemscopes-v3"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "github-container-image-stemscopes-v3-repos",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/github/github-container-image-stemscopes-v3-repos",
+    "tags": [
+      "stemscopes-v3/github"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "github-platform-stemscopes-v3-repos",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/github/github-platform-stemscopes-v3-repos",
+    "tags": [
+      "stemscopes-v3/github"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-package-ali-extra-bundle",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/php-package-ali-extra-bundle",
+    "tags": [
+      "stemscopes-v3"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-package-bulk-saver-bundle",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/php-package-bulk-saver-bundle",
+    "tags": [
+      "stemscopes-v3"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-package-daemon-queue-bundle",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/php-package-daemon-queue-bundle",
+    "tags": [
+      "stemscopes-v3"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-package-daemon-queue-commands-installation-bundle",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/php-package-daemon-queue-commands-installation-bundle",
+    "tags": [
+      "stemscopes-v3"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-package-dashboard-admin-tmp-bundle",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/php-package-dashboard-admin-tmp-bundle",
+    "tags": [
+      "stemscopes-v3"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-package-dashboard-api-bundle",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/php-package-dashboard-api-bundle",
+    "tags": [
+      "stemscopes-v3"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-package-dashboard-chart-tmp-bundle",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/php-package-dashboard-chart-tmp-bundle",
+    "tags": [
+      "stemscopes-v3"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-package-dashboard-common-data-tmp-bundle",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/php-package-dashboard-common-data-tmp-bundle",
+    "tags": [
+      "stemscopes-v3"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-package-dashboard-data-tmp-bundle",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/php-package-dashboard-data-tmp-bundle",
+    "tags": [
+      "stemscopes-v3"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-package-dashboard-global-data-tmp-bundle",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/php-package-dashboard-global-data-tmp-bundle",
+    "tags": [
+      "stemscopes-v3"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-package-dashboard-prepare-tmp-bundle",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/php-package-dashboard-prepare-tmp-bundle",
+    "tags": [
+      "stemscopes-v3"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-package-dashboard-processing-tmp-bundle",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/php-package-dashboard-processing-tmp-bundle",
+    "tags": [
+      "stemscopes-v3"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-package-dashboard-splitter-bundle",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/php-package-dashboard-splitter-bundle",
+    "tags": [
+      "stemscopes-v3"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-package-general-api-tmp-bundle",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/php-package-general-api-tmp-bundle",
+    "tags": [
+      "stemscopes-v3"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-package-general-events-tmp-bundle",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/php-package-general-events-tmp-bundle",
+    "tags": [
+      "stemscopes-v3"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-package-general-extra-tmp-bundle",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/php-package-general-extra-tmp-bundle",
+    "tags": [
+      "stemscopes-v3"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-package-general-global-config-tmp-bundle",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/php-package-general-global-config-tmp-bundle",
+    "tags": [
+      "stemscopes-v3"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-package-general-global-log-tmp-bundle",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/php-package-general-global-log-tmp-bundle",
+    "tags": [
+      "stemscopes-v3"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-package-general-global-queue-tmp-bundle",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/php-package-general-global-queue-tmp-bundle",
+    "tags": [
+      "stemscopes-v3"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-package-general-installer-bundle",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/php-package-general-installer-bundle",
+    "tags": [
+      "stemscopes-v3"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-package-general-library-tmp-bundle",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/php-package-general-library-tmp-bundle",
+    "tags": [
+      "stemscopes-v3"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-package-general-log-bundle",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/php-package-general-log-bundle",
+    "tags": [
+      "stemscopes-v3"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-package-general-mail-tmp-bundle",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/php-package-general-mail-tmp-bundle",
+    "tags": [
+      "stemscopes-v3"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-package-general-oauth-client-tmp-bundle",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/php-package-general-oauth-client-tmp-bundle",
+    "tags": [
+      "stemscopes-v3"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-package-general-security-tmp-bundle",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/php-package-general-security-tmp-bundle",
+    "tags": [
+      "stemscopes-v3"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-package-general-setting-tmp-bundle",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/php-package-general-setting-tmp-bundle",
+    "tags": [
+      "stemscopes-v3"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-package-general-system-tmp-bundle",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/php-package-general-system-tmp-bundle",
+    "tags": [
+      "stemscopes-v3"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-package-general-test-tmp-bundle",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/php-package-general-test-tmp-bundle",
+    "tags": [
+      "stemscopes-v3"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-package-global-config-bundle",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/php-package-global-config-bundle",
+    "tags": [
+      "stemscopes-v3"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-package-global-queue-bundle",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/php-package-global-queue-bundle",
+    "tags": [
+      "stemscopes-v3"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-package-locker-bundle",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/php-package-locker-bundle",
+    "tags": [
+      "stemscopes-v3"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-package-rocket-chat-bundle",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/php-package-rocket-chat-bundle",
+    "tags": [
+      "stemscopes-v3"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-package-system-bundle",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/php-package-system-bundle",
+    "tags": [
+      "stemscopes-v3"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-package-system-header-menu-bundle",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/php-package-system-header-menu-bundle",
+    "tags": [
+      "stemscopes-v3"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "php-package-warehouse-bundle",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/php-package-warehouse-bundle",
+    "tags": [
+      "stemscopes-v3"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-v3-mysql",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/platform/platform-stemscopes-v3-mysql",
+    "tags": [
+      "stemscopes-v3/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-v3-service-autosave",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/platform/platform-stemscopes-v3-service-autosave",
+    "tags": [
+      "stemscopes-v3/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-v3-service-backend",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/platform/platform-stemscopes-v3-service-backend",
+    "tags": [
+      "stemscopes-v3/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-v3-service-frontend",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/platform/platform-stemscopes-v3-service-frontend",
+    "tags": [
+      "stemscopes-v3/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-v3-service-login",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/platform/platform-stemscopes-v3-service-login",
+    "tags": [
+      "stemscopes-v3/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-v3-service-translations",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/platform/platform-stemscopes-v3-service-translations",
+    "tags": [
+      "stemscopes-v3/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "pulumi-stemscopes-v3-account",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/pulumi/pulumi-stemscopes-v3-account",
+    "tags": [
+      "stemscopes-v3/pulumi"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "repository-template-container-image",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/repository-template/repository-template-container-image",
+    "tags": [
+      "stemscopes-v3/repository-template"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "repository-template-platform",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/repository-template/repository-template-platform",
+    "tags": [
+      "stemscopes-v3/repository-template"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "webstore",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v3/webstore",
+    "tags": [
+      "stemscopes-v3"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-stemscopes-v4-google-classroom",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v4/container/container-stemscopes-v4-google-classroom",
+    "tags": [
+      "stemscopes-v4/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-stemscopes-v4-magic-link",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v4/container/container-stemscopes-v4-magic-link",
+    "tags": [
+      "stemscopes-v4/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-stemscopes-v4-uninstall",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v4/container/container-stemscopes-v4-uninstall",
+    "tags": [
+      "stemscopes-v4/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-cms-gateway",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v4/platform/platform-cms-gateway",
+    "tags": [
+      "stemscopes-v4/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-v4-google-classroom",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v4/platform/platform-stemscopes-v4-google-classroom",
+    "tags": [
+      "stemscopes-v4/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-v4-magic-link",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v4/platform/platform-stemscopes-v4-magic-link",
+    "tags": [
+      "stemscopes-v4/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-stemscopes-v4-uninstall",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v4/platform/platform-stemscopes-v4-uninstall",
+    "tags": [
+      "stemscopes-v4/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "stemscopes-v4-ai-audit-reports",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v4/stemscopes-v4-ai-audit-reports",
+    "tags": [
+      "stemscopes-v4"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "stemscopes-v4-autotests",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v4/stemscopes-v4-autotests",
+    "tags": [
+      "stemscopes-v4"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "stemscopes-v4-development-scripts",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/stemscopes-v4/stemscopes-v4-development-scripts",
+    "tags": [
+      "stemscopes-v4"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "container-studyedge-webapp-auth",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/studysocial/container/container-studyedge-webapp-auth",
+    "tags": [
+      "studysocial/container"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "github-test-repos",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/studysocial/github/github-test-repos",
+    "tags": [
+      "studysocial/github"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-studyedge-auth",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/studysocial/platform/platform-studyedge-auth",
+    "tags": [
+      "studysocial/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "platform-studyedge-thinkific",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/studysocial/platform/platform-studyedge-thinkific",
+    "tags": [
+      "studysocial/platform"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "ss-github-container-image-repos",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/studysocial/ss-github/ss-github-container-image-repos",
+    "tags": [
+      "studysocial/ss-github"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "ss-github-platform-repos",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/studysocial/ss-github/ss-github-platform-repos",
+    "tags": [
+      "studysocial/ss-github"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "ss-github-pulumi-repos",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/studysocial/ss-github/ss-github-pulumi-repos",
+    "tags": [
+      "studysocial/ss-github"
+    ],
+    "enabled": true
+  },
+  {
+    "name": "studyedge-thinkific-lambda",
+    "rootPath": "vscode-remote://wsl+Ubuntu-24.04//home/rcannon/src/studysocial/studyedge-thinkific-lambda",
+    "tags": [
+      "studysocial"
+    ],
+    "enabled": true
+  }
+]
