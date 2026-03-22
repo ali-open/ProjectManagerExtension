@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "ProjectManagerExtension (Package)": {
+      "commandName": "MsixPackage",
+      "doNotLaunchApp": true
+    },
+    "ProjectManagerExtension (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
