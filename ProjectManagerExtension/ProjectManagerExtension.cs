@@ -6,6 +6,7 @@ using System;
 using System.Runtime.InteropServices;
 using System.Threading;
 using Microsoft.CommandPalette.Extensions;
+using ProjectManagerExtension.Services;
 
 namespace ProjectManagerExtension;
 
@@ -13,12 +14,14 @@ namespace ProjectManagerExtension;
 public sealed partial class ProjectManagerExtension : IExtension, IDisposable
 {
     private readonly ManualResetEvent _extensionDisposedEvent;
-
-    private readonly ProjectManagerExtensionCommandsProvider _provider = new();
+    private readonly ProjectsLoader _projectsLoader;
+    private readonly ProjectManagerExtensionCommandsProvider _provider;
 
     public ProjectManagerExtension(ManualResetEvent extensionDisposedEvent)
     {
         this._extensionDisposedEvent = extensionDisposedEvent;
+        this._projectsLoader = new ProjectsLoader();
+        this._provider = new ProjectManagerExtensionCommandsProvider(_projectsLoader);
     }
 
     public object? GetProvider(ProviderType providerType)
@@ -30,5 +33,9 @@ public sealed partial class ProjectManagerExtension : IExtension, IDisposable
         };
     }
 
-    public void Dispose() => this._extensionDisposedEvent.Set();
+    public void Dispose()
+    {
+        _projectsLoader?.Dispose();
+        _extensionDisposedEvent.Set();
+    }
 }
