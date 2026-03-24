@@ -25,12 +25,24 @@ Run this once to create a self-signed certificate:
 ```
 
 This creates:
-- `ProjectManagerExtension.pfx` - Used for signing (keep secure)
-- `ProjectManagerExtension.cer` - Upload to Intune (Intune handles trust automatically)
+- `Output\ProjectManagerExtension.pfx` - Used for signing (keep secure)
+- `Output\ProjectManagerExtension.cer` - Upload to Intune (Intune handles trust automatically)
 
 **Note**: The default password is `YourPasswordHere` - keep the PFX file secure!
 
 ### Step 2: Build the MSIX Package
+
+**Option A: Multi-Architecture Bundle (Recommended)**
+
+Build a single package that works on both x64 and ARM64:
+
+```powershell
+.\Build-Bundle.ps1 -Configuration Release
+```
+
+Output: `Output\ProjectManagerExtension.msixbundle`
+
+**Option B: Architecture-Specific Packages**
 
 Build for x64 (most common):
 
@@ -44,12 +56,16 @@ Or for ARM64:
 .\Build-Installer.ps1 -Platform ARM64 -Configuration Release
 ```
 
-Output location: `Output\ProjectManagerExtension_x64.msix`
+Output: `Output\ProjectManagerExtension_x64.msix` or `Output\ProjectManagerExtension_ARM64.msix`
 
 ### Step 3: Sign the Package
 
 ```powershell
-.\Sign-Package.ps1 -PackagePath ".\Output\ProjectManagerExtension_x64.msix"
+# For bundle
+.\Sign-Package.ps1 -PackagePath ".\Output\ProjectManagerExtension.msixbundle" -Password 'YourPassword'
+
+# OR for individual packages
+.\Sign-Package.ps1 -PackagePath ".\Output\ProjectManagerExtension_x64.msix" -Password 'YourPassword'
 ```
 
 ### Step 4: Upload to Intune
@@ -57,7 +73,11 @@ Output location: `Output\ProjectManagerExtension_x64.msix`
 1. Sign in to [Microsoft Intune admin center](https://endpoint.microsoft.com)
 2. Navigate to **Apps** → **Windows** → **Add**
 3. Select **Windows app (Win32)** or **Line-of-business app**
-4. Click **Select app package file** and upload `ProjectManagerExtension_x64.msix`
+4. Click **Select app package file** and upload:
+   - `ProjectManagerExtension.msixbundle` (recommended - works on all devices)
+   - OR `ProjectManagerExtension_x64.msix` (x64 only)
+
+**Note:** If using a bundle, Windows automatically selects and installs the correct architecture for each device.
 
 #### Configure App Information:
 - **Name**: Project Manager Extension for PowerToys
@@ -67,7 +87,7 @@ Output location: `Output\ProjectManagerExtension_x64.msix`
 
 #### Configure Certificate (Critical Step):
 5. In the **App information** section, find **Certificate**
-6. Upload `ProjectManagerExtension.cer`
+6. Upload `Output\ProjectManagerExtension.cer`
 7. Intune will automatically install this certificate to the Trusted People store during deployment
 
 #### Assign to Users/Groups:
@@ -175,7 +195,7 @@ If you need to install without Intune (e.g., testing on a personal machine):
 ### Steps
 1. **Install Certificate** (Admin PowerShell):
    ```powershell
-   Import-Certificate -FilePath ".\ProjectManagerExtension.cer" -CertStoreLocation Cert:\LocalMachine\TrustedPeople
+   Import-Certificate -FilePath ".\Output\ProjectManagerExtension.cer" -CertStoreLocation Cert:\LocalMachine\TrustedPeople
    ```
 
 2. **Install Package**:

@@ -3,9 +3,9 @@
 param(
     [Parameter(Mandatory=$true)]
     [string]$PackagePath,
-    
-    [string]$CertificatePath = (Join-Path $PSScriptRoot "ProjectManagerExtension.pfx"),
-    
+
+    [string]$CertificatePath = (Join-Path $PSScriptRoot "Output\ProjectManagerExtension.pfx"),
+
     [string]$Password = "YourPasswordHere"
 )
 
@@ -24,8 +24,8 @@ if (!(Test-Path $CertificatePath)) {
 }
 
 # Find signtool.exe
-$signtool = Get-ChildItem -Path "C:\Program Files (x86)\Windows Kits\10\bin\*\x64\signtool.exe" | 
-    Sort-Object FullName -Descending | 
+$signtool = Get-ChildItem -Path "C:\Program Files (x86)\Windows Kits\10\bin\*\x64\signtool.exe" |
+    Sort-Object FullName -Descending |
     Select-Object -First 1
 
 if (!$signtool) {

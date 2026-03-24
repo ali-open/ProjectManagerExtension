@@ -32,11 +32,18 @@ That's it! No configuration needed.
 
 See [INSTALLATION.md](./INSTALLATION.md) for complete build and deployment instructions.
 
-**Quick Build:**
+**Quick Build (Multi-Architecture Bundle):**
+```powershell
+.\Create-Certificate.ps1                # One-time
+.\Build-Bundle.ps1 -Configuration Release   # Build both x64 and ARM64
+.\Sign-Package.ps1 -PackagePath ".\Output\ProjectManagerExtension.msixbundle" -Password 'YourPassword'
+```
+
+**Quick Build (Single Architecture):**
 ```powershell
 .\Create-Certificate.ps1              # One-time
-.\Build-Installer.ps1 -Platform x64   # Build
-.\Sign-Package.ps1 -PackagePath ".\Output\ProjectManagerExtension_x64.msix"  # Sign
+.\Build-Installer.ps1 -Platform x64   # Build x64 only
+.\Sign-Package.ps1 -PackagePath ".\Output\ProjectManagerExtension_x64.msix" -Password 'YourPassword'
 ```
 
 Upload to Intune and you're done!

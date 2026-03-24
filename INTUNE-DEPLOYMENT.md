@@ -10,6 +10,27 @@ This is a condensed guide for IT administrators deploying the Project Manager Ex
 
 ---
 
+## Deployment Strategy
+
+### Bundle vs. Separate Packages
+
+**Option 1: MSIX Bundle (Recommended)**
+- ✅ Single file works on both x64 and ARM64 devices
+- ✅ Simpler deployment - one app in Intune
+- ✅ Windows automatically installs correct architecture
+- ✅ Easier to maintain and update
+- ⚠️ Slightly larger file size (contains both architectures)
+
+**Option 2: Separate Architecture Packages**
+- ✅ Smaller individual file sizes
+- ✅ Can target specific device groups by architecture
+- ⚠️ Requires two separate apps in Intune
+- ⚠️ More complex to manage and update
+
+**Recommendation:** Use the bundle approach unless you have specific requirements for separate packages.
+
+---
+
 ## Build Process (One-Time Setup)
 
 ### 1. Create Signing Certificate
@@ -20,20 +41,40 @@ cd C:\path\to\ProjectManagerExtension
 ```
 
 **Output:**
-- `ProjectManagerExtension.pfx` - Keep secure (password: `YourPasswordHere`)
-- `ProjectManagerExtension.cer` - Upload to Intune
+- `Output\ProjectManagerExtension.pfx` - Keep secure (password: `YourPasswordHere`)
+- `Output\ProjectManagerExtension.cer` - Upload to Intune
 
 ### 2. Build & Sign Package
 
-```powershell
-# Build
-.\Build-Installer.ps1 -Platform x64 -Configuration Release
+**Option A: Build Multi-Architecture Bundle (Recommended)**
 
-# Sign
-.\Sign-Package.ps1 -PackagePath ".\Output\ProjectManagerExtension_x64.msix"
+Single package works on both x64 and ARM64:
+
+```powershell
+# Build bundle with both architectures
+.\Build-Bundle.ps1 -Configuration Release
+
+# Sign bundle
+.\Sign-Package.ps1 -PackagePath ".\Output\ProjectManagerExtension.msixbundle" -Password 'YourPasswordHere'
 ```
 
-**Output:** `Output\ProjectManagerExtension_x64.msix` (signed and ready)
+**Output:** `Output\ProjectManagerExtension.msixbundle` (works on all architectures)
+
+**Option B: Build Separate Packages**
+
+If you prefer separate packages per architecture:
+
+```powershell
+# Build x64
+.\Build-Installer.ps1 -Platform x64 -Configuration Release
+.\Sign-Package.ps1 -PackagePath ".\Output\ProjectManagerExtension_x64.msix" -Password 'YourPasswordHere'
+
+# Build ARM64
+.\Build-Installer.ps1 -Platform ARM64 -Configuration Release
+.\Sign-Package.ps1 -PackagePath ".\Output\ProjectManagerExtension_ARM64.msix" -Password 'YourPasswordHere'
+```
+
+**Output:** Two separate packages for each architecture
 
 ---
 
@@ -48,8 +89,12 @@ cd C:\path\to\ProjectManagerExtension
 ### Step 2: Upload Package
 
 4. Click **Select app package file**
-5. Browse and select: `ProjectManagerExtension_x64.msix`
+5. Browse and select:
+   - **Bundle**: `ProjectManagerExtension.msixbundle` (recommended - works on all devices)
+   - **OR Separate**: `ProjectManagerExtension_x64.msix` (x64 only)
 6. Click **OK**
+
+**Note:** If using a bundle, Windows automatically installs the correct architecture for each device.
 
 ### Step 3: Configure App Info
 
@@ -73,7 +118,7 @@ Fill in:
 
 7. Scroll to **Certificate** section
 8. Click **Select certificate file**
-9. Upload: `ProjectManagerExtension.cer`
+9. Upload: `Output\ProjectManagerExtension.cer`
 
 **This makes the app "just work" for users - no manual certificate installation!**
 
@@ -232,13 +277,18 @@ Self-signed certificates created by `Create-Certificate.ps1`:
 # First time setup
 .\Create-Certificate.ps1
 
-# Regular workflow
+# Multi-architecture bundle (recommended - works on all devices)
+.\Build-Bundle.ps1 -Configuration Release
+.\Sign-Package.ps1 -PackagePath ".\Output\ProjectManagerExtension.msixbundle" -Password 'YourPassword'
+
+# OR build separate packages per architecture
 .\Build-Installer.ps1 -Platform x64 -Configuration Release
-.\Sign-Package.ps1 -PackagePath ".\Output\ProjectManagerExtension_x64.msix"
+.\Sign-Package.ps1 -PackagePath ".\Output\ProjectManagerExtension_x64.msix" -Password 'YourPassword'
 
 # Files to upload to Intune
-# - Output\ProjectManagerExtension_x64.msix
-# - ProjectManagerExtension.cer (first time only)
+# - Output\ProjectManagerExtension.msixbundle (bundle - recommended)
+#   OR Output\ProjectManagerExtension_x64.msix (x64 only)
+# - Output\ProjectManagerExtension.cer (first time only)
 
 # Check current version
 Get-AppxPackage | Where-Object { $_.Name -like "*ProjectManager*" }

@@ -9,8 +9,14 @@ $ErrorActionPreference = "Stop"
 
 Write-Host "Creating self-signed certificate for MSIX signing..." -ForegroundColor Cyan
 
-$certPath = Join-Path $PSScriptRoot "ProjectManagerExtension.pfx"
-$cerPath = Join-Path $PSScriptRoot "ProjectManagerExtension.cer"
+# Create Output directory if it doesn't exist
+$outputDir = Join-Path $PSScriptRoot "Output"
+if (!(Test-Path $outputDir)) {
+    New-Item -ItemType Directory -Path $outputDir | Out-Null
+}
+
+$certPath = Join-Path $outputDir "ProjectManagerExtension.pfx"
+$cerPath = Join-Path $outputDir "ProjectManagerExtension.cer"
 
 # Create certificate
 $cert = New-SelfSignedCertificate `
