@@ -14,7 +14,7 @@ namespace ProjectManagerExtension.Services;
 
 [JsonSourceGenerationOptions(PropertyNameCaseInsensitive = true)]
 [JsonSerializable(typeof(List<ProjectItem>))]
-internal partial class ProjectsLoaderJsonContext : JsonSerializerContext
+internal sealed partial class ProjectsLoaderJsonContext : JsonSerializerContext
 {
 }
 
